@@ -22,8 +22,8 @@ header{
     background-image: linear-gradient(var(--cor03), var(--cor04));
     color:white;
     width: 100%;
-    padding: 25px;
-    margin: 0;
+    padding: 0;
+    margin: auto;
 }
 
 img{
@@ -75,7 +75,7 @@ main{
     background-color: white;
     margin: auto;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.597);
-    min-width: 300px;
+    min-width: 250px;
     max-width: 800px;
     padding: 25px;
 }
